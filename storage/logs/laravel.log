@@ -1474,3 +1474,7 @@
 [stacktrace]
 #0 {main}
 "} 
+[2021-10-17 02:09:00] local.ERROR: syntax error, unexpected '}' {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected '}' at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:87)
+[stacktrace]
+#0 {main}
+"} 
