@@ -1520,3 +1520,43 @@
 #37 C:\\laragon\\www\\api.siur\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
 #38 {main}
 "} 
+[2021-10-24 22:37:16] local.ERROR: Trait 'App\Traist\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traist\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:37:23] local.ERROR: Trait 'App\Traist\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traist\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:37:42] local.ERROR: Trait 'App\Traist\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traist\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:38:23] local.ERROR: Trait 'App\Traist\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traist\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:38:41] local.ERROR: Trait 'App\Traits\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traits\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:38:45] local.ERROR: Trait 'App\Traits\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traits\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:39:16] local.ERROR: Trait 'App\Traits\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traits\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:39:23] local.ERROR: Trait 'App\Traits\ApiTrait' not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait 'App\\Traits\\ApiTrait' not found at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:10)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:39:54] local.ERROR: syntax error, unexpected 'protected' (T_PROTECTED), expecting ';' or '{' or ',' {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected 'protected' (T_PROTECTED), expecting ';' or '{' or ',' at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:14)
+[stacktrace]
+#0 {main}
+"} 
+[2021-10-24 22:40:23] local.ERROR: syntax error, unexpected 'protected' (T_PROTECTED), expecting ';' or '{' or ',' {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): syntax error, unexpected 'protected' (T_PROTECTED), expecting ';' or '{' or ',' at C:\\laragon\\www\\api.siur\\app\\Models\\Category.php:14)
+[stacktrace]
+#0 {main}
+"} 
